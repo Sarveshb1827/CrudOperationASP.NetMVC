@@ -250,3 +250,4 @@ C:\Users\LENOVO\Desktop\Interview Preperation Practicles\CoreDI\CoreDICrud\CoreD
 C:\Users\LENOVO\Desktop\Interview Preperation Practicles\CoreDI\CoreDICrud\CoreDICrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\LENOVO\Desktop\Interview Preperation Practicles\CoreDI\CoreDICrud\CoreDICrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\LENOVO\Desktop\Interview Preperation Practicles\CoreDI\CoreDICrud\CoreDICrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\LENOVO\Desktop\Interview Preperation Practicles\CoreDI\CoreDICrud\CoreDICrud\obj\Debug\net8.0\CoreDICrud.sourcelink.json

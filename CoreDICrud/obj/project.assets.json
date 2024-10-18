@@ -7723,11 +7723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Interview Preperation Practicles\\CoreDI\\CoreDICrud\\CrudOperationASP.NetMVC\\CoreDICrud\\CoreDICrud.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Interview Preperation Practicles\\CoreDI\\CoreDICrud\\CoreDICrud\\CoreDICrud.csproj",
       "projectName": "CoreDICrud",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\Interview Preperation Practicles\\CoreDI\\CoreDICrud\\CrudOperationASP.NetMVC\\CoreDICrud\\CoreDICrud.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\Interview Preperation Practicles\\CoreDI\\CoreDICrud\\CoreDICrud\\CoreDICrud.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\Interview Preperation Practicles\\CoreDI\\CoreDICrud\\CrudOperationASP.NetMVC\\CoreDICrud\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Desktop\\Interview Preperation Practicles\\CoreDI\\CoreDICrud\\CoreDICrud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

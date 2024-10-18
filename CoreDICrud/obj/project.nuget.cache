@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ACR4rpib688=",
+  "dgSpecHash": "sGVgOS4MnOM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Interview Preperation Practicles\\CoreDI\\CoreDICrud\\CrudOperationASP.NetMVC\\CoreDICrud\\CoreDICrud.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Interview Preperation Practicles\\CoreDI\\CoreDICrud\\CoreDICrud\\CoreDICrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

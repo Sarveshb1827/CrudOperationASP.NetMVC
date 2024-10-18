@@ -42,8 +42,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -54,8 +58,7 @@
               "RelativeToolTip": "CoreDICrud\\Views\\Home\\UserData.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T08:43:23.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T08:43:23.137Z"
             },
             {
               "$type": "Document",
@@ -67,8 +70,7 @@
               "RelativeToolTip": "CoreDICrud\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T07:59:56.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T07:59:56.813Z"
             },
             {
               "$type": "Document",
@@ -80,8 +82,7 @@
               "RelativeToolTip": "CoreDICrud\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T07:54:35.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T07:54:35.764Z"
             },
             {
               "$type": "Document",
@@ -93,8 +94,7 @@
               "RelativeToolTip": "CoreDICrud\\Services\\Services.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T07:50:12.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T07:50:12.956Z"
             },
             {
               "$type": "Document",
@@ -106,8 +106,7 @@
               "RelativeToolTip": "CoreDICrud\\Repository\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T07:45:02.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T07:45:02.928Z"
             },
             {
               "$type": "Document",
@@ -117,7 +116,7 @@
               "RelativeDocumentMoniker": "CoreDICrud\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Interview Preperation Practicles\\CoreDI\\CoreDICrud\\CoreDICrud\\Program.cs",
               "RelativeToolTip": "CoreDICrud\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T07:40:32.739Z",
               "EditorCaption": ""
@@ -132,8 +131,7 @@
               "RelativeToolTip": "CoreDICrud\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T07:36:56.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T07:36:56.511Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "CoreDICrud\\Models\\CoreDiContext.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA5wBkAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T07:35:45.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T07:35:45.471Z"
             }
           ]
         }
