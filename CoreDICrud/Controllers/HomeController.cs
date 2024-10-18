@@ -19,5 +19,14 @@ namespace CoreDICrud.Controllers
             var userdata= _context.getAllUsers();
             return View(userdata);
         }
+
+
+
+
+
+
+
+
+        //king
     }
 }
